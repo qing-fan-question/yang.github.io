@@ -44,7 +44,7 @@ ul {
 <p class="Name"><img src="zzp_new.jpg" width="300" height="225" align="left">
 </p><h1>&nbsp;&nbsp;<strong>Mianzimei Yang 杨棉子美</strong></h1><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Undergraduate Student<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=http://www.neu.edu.cn/">Northeastern University</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.neu.edu.cn/">Northeastern University</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ustc.edu.cn/">University of Science and Technology of China</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Email: yangmianzimei@qq.com<br>
 <br><br><br>
