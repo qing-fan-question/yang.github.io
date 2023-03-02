@@ -105,4 +105,4 @@ B.Eng. @  Information and Computing Science<br>
 
 
 
-<hr><div class="jvectormap-tip"></div></body></html>
+<hr><div class="jvectormap-tip"></div>
