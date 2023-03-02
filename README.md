@@ -82,6 +82,7 @@ B.Eng. @  Information and Computing Science<br>
       <li>[2021] Excellent Student</li><br>
       <li>[2021] Excellent Student</li><br>
       <li>[2020] Excellent Student Cadre </li><br>
+	</p> </li>	
 	</ul>
 <p></p>
 
