@@ -72,6 +72,7 @@ Master Student @ UBIoT Lab<br>
 
 B.Eng. @  Information and Computing Science<br>
 </p></li>
+	</ul>
 <hr>
 
 
