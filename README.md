@@ -81,8 +81,7 @@ B.Eng. @  Information and Computing Science<br>
       <li>[2022] Meritorious Winner, Mathematical Contest In Modeling</li><br>
       <li>[2021] Excellent Student</li><br>
       <li>[2021] Excellent Student</li><br>
-      <li>[2020] Excellent Student Cadre </li><br>
-	</p> </li>	
+      <li>[2020] Excellent Student Cadre </li><br>	
 	</ul>
 <p></p>
 
@@ -105,4 +104,4 @@ B.Eng. @  Information and Computing Science<br>
 
 
 
-<hr><div class="jvectormap-tip"></div></body></html>
+<hr><div class="jvectormap-tip"></div>
