@@ -41,8 +41,7 @@ ul {
 
 
 <body>
-<p class="Name">
-</p><h1>&nbsp;&nbsp;<strong>Mianzimei Yang 杨棉子美</strong></h1><br>
+<h1>&nbsp;&nbsp;<strong>Mianzimei Yang 杨棉子美</strong></h1><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Undergraduate Student<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.neu.edu.cn/">Northeastern University</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ustc.edu.cn/">University of Science and Technology of China</a><br>
